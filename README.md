@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on iOS app I will publish around Fall
-- 🌱 I’m currently learning UIKit, RxSwift, SwiftUI 
-- 👯 I’m looking to collaborate on iOS app development 
+- 💻 I’m currently working as an iOS Engineer at Infinum
+- 🌱 I’m currently learning RxSwift, SwiftUI 
 - 📫 How to reach me: https://www.linkedin.com/in/leo-leljak-4234661a4/
 
 
